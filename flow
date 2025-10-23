@@ -1,0 +1,1 @@
+convertTimeZone(triggerBody()?['Date'], 'UTC', 'India Standard Time', 'yyyy-MM-ddTHH:mm:ss')
